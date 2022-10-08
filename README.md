@@ -1,2 +1,2 @@
 # AlgProg_Lab_GuessingGame
- Interger guessing game for lab assignment 
+ Interger guessing game for ko alvin lab assignment
