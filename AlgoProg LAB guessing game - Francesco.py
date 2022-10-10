@@ -18,5 +18,4 @@ while guess != randomint:
     
     if tries>=10:
         print("You're so bad at this, please get help!")
-
-
+        
